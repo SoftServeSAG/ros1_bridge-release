@@ -1,7 +1,7 @@
-From 866a978a6d78ef82b95c61b3cae227c275531a70 Mon Sep 17 00:00:00 2001
+From 902b9f349201528ecc822736881f78d0fede4dfb Mon Sep 17 00:00:00 2001
 From: Jacob Perron <jacob@openrobotics.org>
 Date: Mon, 18 May 2020 11:44:43 -0700
-Subject: [PATCH 2/2] Depend on Python 3 version of rospkg
+Subject: [PATCH 2/3] Depend on Python 3 version of rospkg
 
 Signed-off-by: Jacob Perron <jacob@openrobotics.org>
 ---

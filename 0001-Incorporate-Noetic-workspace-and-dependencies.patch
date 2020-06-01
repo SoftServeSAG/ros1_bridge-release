@@ -1,7 +1,7 @@
-From 14cd01008f9854ca11ddc98b554903e7b1448d07 Mon Sep 17 00:00:00 2001
+From 9f5b91fdbf19673544c0ba01442eabaa725eb684 Mon Sep 17 00:00:00 2001
 From: Jacob Perron <jacob@openrobotics.org>
 Date: Mon, 18 May 2020 10:58:45 -0700
-Subject: [PATCH 1/2] Incorporate Noetic workspace and dependencies
+Subject: [PATCH 1/3] Incorporate Noetic workspace and dependencies
 
 Copied patch from Eloquent, but swapped 'melodic' for 'noetic'
 
